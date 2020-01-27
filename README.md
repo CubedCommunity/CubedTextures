@@ -5,22 +5,20 @@ Cubed uses a custom pack for our new main project, Andea. Created solely for thi
 
 ![alt text](https://i.imgur.com/NCqdzIZ.png "Requirements")
 
-✚ This pack requires OptiFine. Download it!
+✚ This pack requires OptiFine. Download it.
 
   » http://www.optifine.net/downloads
 
+✚ Remember to enable Connected Textures.
 
-✚ Remember to enable Connected Textures!
+  » Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadows can occur on complex models with multiple faces; playing around with different shadow percentages can often solve this.
 
-  » Thank you for using Cubed Textures.
+![alt text](https://i.imgur.com/zrakbuz.png "Support")
 
-  
-✚ If you need help, join the Discord!
+✚ If you need help, join the Discord.
 
   » https://cubed.community/discord
   
-  
-  
-  
-By Aequotis & Tarago
+![alt text](https://i.imgur.com/p0XXI44.png "Hi there")
+
   
