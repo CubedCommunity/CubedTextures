@@ -8,10 +8,24 @@ Cubed uses a custom pack for our new main project, Andea. Created solely for thi
 ✚ This pack requires OptiFine. Download it.
 
   » http://www.optifine.net/downloads
+  
+✚ How to install:
+
+1. Download and install Optifine for 1.13.2. You can find the download above.
+2. Download the desired pack version. We suggest the most latest release.
+3. Move (or download) the file to ``%app_data%/roaming/.minecraft/resourcepacks.``
+4. Run Minecraft with Optifine and access your resource-pack folder via the in-game menu.
+5. Select the Cubed Textures resource-pack.
+6. Kappa! You can also view the pack’s features via /warp Pack on our creative server.
 
 ✚ Remember to enable Connected Textures.
 
-  » Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadows can occur on complex models with multiple faces; playing around with different shadow percentages can often solve this.
+Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadows can occur on complex models with multiple faces; playing around with different shadow percentages can often solve this. Our resourcepack works best with Shaders! You can try out these shaders:
+
+- Raspberry: https://www.rutherin.netlify.com
+- SEUS PTGI: https://www.patreon.com/sonicether
+- Continuum: https://continuum.graphics/
+- Sildurs: https://sildurs-shaders.github.io/
 
 ![alt text](https://i.imgur.com/GrXeHKF.png "Support")
 
