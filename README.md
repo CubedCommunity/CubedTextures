@@ -24,11 +24,10 @@ Cubed uses a custom pack for our new main project, Andea. Created solely for thi
 
 #### ✚ Remember to enable Connected Textures.
 
-Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadows can occur on complex models with multiple faces; playing around with different shadow percentages can often solve this. Our resourcepack works best with Shaders! You can try out these shaders that work amazingly with Cubed Textures:
+Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadows can occur on complex models with multiple faces; playing around with different shadow percentages can often solve this so we recommend setting shadows to 20% or less. Our resourcepack works best with Shaders! You can try out these shaders that work amazingly with Cubed Textures:
 
 - Raspberry: https://www.rutherin.netlify.com
 - SEUS PTGI: https://www.patreon.com/sonicether
-- Continuum: https://continuum.graphics/
 - Sildurs: https://sildurs-shaders.github.io/
 
 ![alt text](https://i.imgur.com/GrXeHKF.png "Support")
@@ -39,6 +38,6 @@ Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadow
 
 We'll endeavour to get back to you whatever the issue. If possible, submit an issue on Github so we can track it and resolve accordingly.
 
-![alt text](https://i.imgur.com/7YhMM0o.png "Hi there")
+![alt text](https://i.imgur.com/7YhMM0o.png "Hi There")
 
   
