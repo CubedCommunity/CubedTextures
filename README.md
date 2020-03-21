@@ -38,6 +38,6 @@ Enable connected textures, set leaves to fancy and shadows to 20%. Bugged shadow
 
 We'll endeavour to get back to you whatever the issue. If possible, submit an issue on Github so we can track it and resolve accordingly.
 
-![alt text](https://i.imgur.com/7YhMM0o.png "Hi There")
+![alt text](https://i.imgur.com/S4aBFWX.png "Hi There")
 
   
