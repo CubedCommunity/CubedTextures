@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "\u00A73\u00A7lCubedPack \u00A7f| \u00A7b5.0.2.2 DEV \n\u00A7f>> \u00A77\u00A7oUse Optifine!"
+  },
+  "language":{
+    "en_us":{
+        "name":"Cubed",
+        "region":"Somewhere Spicy",
+        "bidirectional":false
+    }
+  }
+}
