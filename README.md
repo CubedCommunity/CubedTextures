@@ -13,7 +13,7 @@ Cubed uses a custom pack for our new main project, Andea. Created solely for thi
   
 #### ✚ How to install:
 
-1. Download and install Optifine for 1.13.2. You can find the download above.
+1. Download and install Optifine for 1.14.4. You can find the download above.
 2. Download the desired pack version. We suggest the most latest release.
 3. Move (or download) the file to ``%appdata%/roaming/.minecraft/resourcepacks.``
 4. Run Minecraft with Optifine and access your resource-pack folder via the in-game menu.
